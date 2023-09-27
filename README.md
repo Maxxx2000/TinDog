@@ -1,5 +1,5 @@
 # TinDog
-TinDog is a dating website for dogs just we humans had an app called Tinder
+TinDog is a dating website for dogs we humans have an app called Tinder
 
 # About TinDog
 TinDog is a frontend homepage website with details like - Contact, Pricing, Download, and User reviews as well
